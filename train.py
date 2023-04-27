@@ -1,14 +1,14 @@
-from transformers import BertTokenizer
+from transformers import DistilBertTokenizer
 from torch.utils.data import DataLoader
 from quoradataset import QuoraDataset
-from quora_model import Quora_Sentence_BERT_Classifier
+from quora_model_base import Quora_Sentence_BERT_Classifier
 import torch
 import torch.nn as nn
 import os
 
 def train(train_sentences_1,train_sentences_2,train_labels,val_sentences_1,val_sentences_2,val_labels,
           batch_size,epochs,learning_rate):
-    tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
+    tokenizer = DistilBertTokenizer.from_pretrained("distilbert-base-uncased")
     train_encodings_1 = tokenizer(train_sentences_1, truncation=True, padding=True,add_special_tokens=True)
     val_encodings_1= tokenizer(val_sentences_1, truncation=True, padding=True,add_special_tokens=True)
     train_encodings_2= tokenizer(train_sentences_2, truncation=True, padding=True,add_special_tokens=True)

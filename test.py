@@ -1,8 +1,8 @@
-from transformers import BertTokenizer
+from transformers import DistilBertTokenizer
 from torch.utils.data import DataLoader
 
 from quoradataset import QuoraDataset
-from quora_model import Quora_Sentence_BERT_Classifier
+from quora_model_base import Quora_Sentence_BERT_Classifier
 
 from sklearn.metrics import accuracy_score,f1_score,precision_score,recall_score
 
@@ -11,7 +11,7 @@ import torch.nn as nn
 import os
 
 def test(test_sentences_1,test_sentences_2,test_labels):
-    tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
+    tokenizer = DistilBertTokenizer.from_pretrained("distilbert-base-uncased")
 
     test_encodings_1= tokenizer(test_sentences_2, truncation=True, padding=True,add_special_tokens=True)
     test_encodings_2= tokenizer(test_sentences_2, truncation=True, padding=True,add_special_tokens=True)

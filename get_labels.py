@@ -1,6 +1,6 @@
 import pandas as pd
 from sklearn.cluster import KMeans
-from transformers import BertTokenizer, BertModel
+from transformers import DistilBertTokenizer, DistilBertModel
 
 import torch
 
@@ -25,8 +25,8 @@ def return_all_sentences_in_dict():
 
 all_questions=return_all_sentences_in_dict()
 
-tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
-model = BertModel.from_pretrained('bert-base-uncased')
+tokenizer = DistilBertTokenizer.from_pretrained('distilbert-base-uncased')
+model = DistilBertModel.from_pretrained('distilbert-base-uncased')
 
 # Define a function to get sentence embeddings
 def get_sentence_embedding(text):
