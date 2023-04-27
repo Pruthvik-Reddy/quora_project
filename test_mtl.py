@@ -30,7 +30,7 @@ def test(test_sentences_1,test_sentences_2,test_labels_1,test_labels_2):
 
     ground_truth = []
     y_predicted = []
-    threshold=0.5
+    threshold=0.8
     for batch in test_loader:
         with torch.no_grad():
             input_ids_1= batch['input_ids'].to(device)
