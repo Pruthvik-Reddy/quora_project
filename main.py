@@ -34,13 +34,13 @@ if args.mode=="train":
 
 
 else:
-   # test_sentences_1=test_data["sentences_1"]
-   # test_sentences_2=test_data["sentences_2"]
-    #test_labels=test_data["labels"]
-    data=pd.read_csv("quora_dataset/stack_overflow.tsv",sep="\t")
-    test_sentences_1=data["question1"]
-    test_sentences_2=data["question2"]
-    test_labels=data["is_duplicate"]
+    test_sentences_1=test_data["sentences_1"]
+    test_sentences_2=test_data["sentences_2"]
+    test_labels=test_data["labels"]
+    #data=pd.read_csv("quora_dataset/stack_overflow.tsv",sep="\t")
+    #test_sentences_1=data["question1"]
+    #test_sentences_2=data["question2"]
+    #test_labels=data["is_duplicate"]
     acc,f1,precision,recall=test(test_sentences_1,test_sentences_2,test_labels)
 
 
