@@ -10,7 +10,7 @@ def return_data():
     test_data=dict()
     val_data=dict()
 
-    data=pd.read_csv('quora_dataset/quora_duplicate_questions.tsv', sep='\t',nrows=10000)
+    data=pd.read_csv('quora_dataset/quora_duplicate_questions.tsv', sep='\t',nrows=50000)
     train_df, test_df = train_test_split(data, test_size=0.3, random_state=42)
     test_df, val_df = train_test_split(test_df, test_size=0.5, random_state=42)
 
