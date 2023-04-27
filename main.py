@@ -34,14 +34,30 @@ if args.mode=="train":
 
 
 else:
-    test_sentences_1=test_data["sentences_1"]
-    test_sentences_2=test_data["sentences_2"]
-    test_labels=test_data["labels"]
-    #data=pd.read_csv("quora_dataset/stack_overflow.tsv",sep="\t")
-    #test_sentences_1=data["question1"]
-    #test_sentences_2=data["question2"]
-    #test_labels=data["is_duplicate"]
+    #test_sentences_1=test_data["sentences_1"]
+    #test_sentences_2=test_data["sentences_2"]
+    #test_labels=test_data["labels"]
+    test_data=pd.read_csv('quora_dataset/stack_overflow.tsv', sep='\t')
+    test_sentences_1=[]
+    test_sentences_2=[]
+
+    test_labels=[]
+    
+    for index,row in test_data.iterrows():
+        if isinstance(row["question1"],str) and isinstance(row["question2"],str):
+            
+            sent1=row["question1"].replace("\r", "").replace("\n", " ").replace("\t", " ")
+            sent2=row["question2"].replace("\r", "").replace("\n", " ").replace("\t", " ")
+            label=row["is_duplicate"]
+            if sent1=="" and sent2=="":
+                continue
+            test_sentences_1.append(sent1)
+            test_sentences_2.append(sent2)
+            test_labels.append(label)
+        
+    
     acc,f1,precision,recall=test(test_sentences_1,test_sentences_2,test_labels)
 
+    
 
 
