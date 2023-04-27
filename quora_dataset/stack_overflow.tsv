@@ -1,0 +1,175 @@
+rid	question1	question2	is_duplicate
+1	Xcode does not see iPhone device	The iPhone device is not being detected by Xcode.	1
+2	How can I change UILabel in LaunchScreen dynamically	Is there a way to update the UILabel in LaunchScreen programmatically?	1
+3	How to draw a path/outline around the notch/cutout on iOS like cutoutPath on Android?	On iOS, what is the process to create a path or outline around the notch or cutout similar to using cutoutPath on Android?	1
+	Airtag in stolen car rephrase	Using AirTag to track a stolen vehicle.	0
+	Record and add audio effects at the same time in iOS with audio unit	Is it possible to simultaneously record audio and apply audio effects using audio units in iOS?	1
+	On iOS, is there any way to build an alarm clock app that plays sound longer than 30 seconds?	Can an alarm clock app that plays sound for more than 30 seconds be developed on iOS?	1
+	Unable to install "Runner"	Encountering an installation error while attempting to install "Runner".	1
+	Training ML Models on iOS Devices	is it possible to run KNN in apple?	1
+	Can Apple's cinematic mode video camera be accessed via the AVfoundations api?	Is it possible to use the AVFoundation API to access Apple's cinematic mode video camera?	1
+	Telephone hyperlink is not clickable in Gmail app on iPhone	gmail call button freeze in iphone	1
+	Is there a way to detect iPhone model using js?	Can iphone be used to detect the model of an js?	0
+	It looks like Safari doesn't see css file	css not loading in safari, why?	1
+	Why is Autoplay video not working on iphone	video not playing automatically in iphone	1
+	Transfer file from iPhone to Android device connected in same Wifi AP	how to share files from android to iphone connected on same wifi	1
+	how can I show selected image in Photos app	select a photo in photos app	0
+	How do I center an image in CSS?	In CSS, how do I center an image?	1
+	How to convert a string to a date in JavaScript?	In JavaScript, how do you convert a string to a date?	1
+	How do I find the maximum value in an array in Python?	In Python, how do I find the largest value in an array?	1
+	How do I add a border to an HTML table?		1
+	How to get the current URL with JavaScript?	How do I make an HTML table border?	1
+	How to create a responsive navigation bar in CSS?	How does JavaScript receive the current URL?	1
+	How do I remove a specific element from an array in JavaScript?	In CSS, how do you make a responsive menu bar?	1
+	How to make a div scrollable in CSS?	In JavaScript, how can I remove a specific element from an array?	1
+	How to concatenate two strings in Python?	In CSS, how do you make a div scrollable?	1
+	How to create a tooltip in HTML and CSS?	In Python, how do you concatenate two strings?	1
+	How to check if a string contains a substring in JavaScript?	In HTML and CSS, how do you make a tooltip?	1
+	How to center a div horizontally and vertically in CSS?	In JavaScript, how do you verify if a string has a substring?	1
+	How to loop through an array in JavaScript?	In CSS, how do you center a div horizontally and vertically?	1
+	How to change the color of a text in HTML?	In JavaScript, how do you loop around an array?	1
+	How to format a date in JavaScript?	In JavaScript, how do you format a date?	1
+	How to add a class to an element in JavaScript?	In JavaScript, how do you apply a class to an element?	1
+	How to make a div fade in and out with jQuery?	How can I use jQuery to make a div fade in and out?	1
+	How to validate an email address in JavaScript?	In JavaScript, how do you validate an email address?	1
+	How to create a slideshow in HTML and CSS?	How can I make an HTML and CSS slideshow?	1
+	How to sort an array in Python?	In Python, how do you sort an array?	1
+	How to make a div stick to the top of the page in CSS?	In CSS, how do you make a div stick to the top of the page?	1
+	How to check if a variable is undefined in JavaScript?	In JavaScript, how can you tell if a variable is undefined?	1
+	How to remove a class from an element in JavaScript?	In JavaScript, how do you remove a class from an element?	1
+	How to center an element horizontally in CSS?	In CSS, how do you center an element horizontally?	1
+	How to add a background image to a div in CSS?	In CSS, how do you add a background picture to a div?	1
+	How to reverse a string in Python?	In Python, how do you reverse a string?	1
+	How to make an image clickable in HTML?	In HTML, how do you make a picture clickable?	1
+	How to add a new element to an array in JavaScript?	In JavaScript, how do you add a new element to an array?	1
+	How to make a div stay at the bottom of the page in CSS?	In CSS, how do you keep a div at the bottom of the page?	1
+	How to check if an array contains a specific value in JavaScript?	In JavaScript, how do you check if an array has a given value?	1
+	How to create a form in HTML?	How do I make an HTML form?	1
+	How to get the length of an array in JavaScript?	In JavaScript, how do you retrieve the length of an array?	1
+	How to make a div slide up and down with jQuery?	How can I use jQuery to make a div glide up and down?	1
+	How to convert a string to lowercase in Python?	In Python, how do you convert a string to lowercase?	1
+	How to add a hyperlink in HTML?	How do I insert a hyperlink in HTML?	1
+	How to remove an element from the DOM with JavaScript?	How does JavaScript remove an element from the DOM?	1
+	How to make a div draggable in CSS?	In CSS, how do you create a div draggable?	1
+	How to check if a checkbox is checked in JavaScript?	In JavaScript, how do you check if a checkbox is checked?	1
+	How to add a border-radius to an element in CSS?	In CSS, how do you apply a border-radius to an element?	1
+	How to convert a string to uppercase in Python?	In Python, how do you change a string to uppercase?	1
+	How to create a button in HTML?	How do you make a button in HTML?	1
+	How to find the index of an element in an array in JavaScript?	In JavaScript, how do you retrieve the index of an element in an array?	1
+	How to make a div expand when clicked in CSS?	In CSS, how do you make a div expand when clicked?	1
+	How to get the value of an input field in JavaScript?	In JavaScript, how do you get the value of an input field?	1
+	How to add a shadow to an element in CSS?	In CSS, how do you add a shadow to an element?	1
+	How to convert a number to a string in JavaScript?	In JavaScript, how do you convert an integer to a string?	1
+	How to create a dropdown menu in HTML and CSS?	In HTML and CSS, how do you make a dropdown menu?	1
+	How to remove all child elements of a div with jQuery?	With jQuery, how do you remove all child elements of a div?	1
+	How to add a border to an element on hover in CSS?	In CSS, how do you apply a border to an element when it is hovered over?	1
+	How to convert a list to a string in Python?	In Python, how do you convert a list to a string?	1
+	How to create a radio button in HTML?	In HTML, how do you make a radio button?	1
+	How to create a select dropdown in HTML?	In HTML, how do you make a select dropdown?	1
+	How to get the current date and time in JavaScript?	In JavaScript, how do you get the current date and time?	1
+	How to remove a property from an object in JavaScript?	In JavaScript, how do you remove a property from an object?	1
+	How to add an image to a button in HTML?	In HTML, how do you add an image to a button?	1
+	How to create a table in HTML?	How do you make a table in HTML?	1
+	How to make a div shrink when clicked in CSS?	In CSS, how can I make a div shrink when clicked?	1
+	How to replace a substring in a string with JavaScript?	How does JavaScript replace a substring in a string?	1
+	How to create a textarea in HTML?	How can I make an HTML textarea?	1
+	1. How to properly implement dependency injection in a JavaScript project?	1. How should dependency injection be implemented in a JavaScript project?	1
+	2. What is the most efficient way to sort a large list of integers in Python?	2. In Python, what is the most efficient approach to sort a huge list of integers?	1
+	3. How to handle exceptions in asynchronous C# code?	3. How should exceptions be handled in asynchronous C# code?	1
+	4. Best practices for implementing unit tests in a Ruby on Rails application?	4. What are the best strategies for incorporating unit tests into a Ruby on Rails application?	1
+	5. How to use React hooks with functional components in TypeScript?	5. How do I utilize React hooks with TypeScript functional components?	1
+	6. Optimizing SQL queries for better performance in PostgreSQL?	6. How do I optimize SQL queries in PostgreSQL for improved performance?	1
+	7. How do I create a custom authentication middleware for Django?	7. How do I write my own Django authentication middleware?	1
+	8. What is the difference between "==" and "===" in JavaScript?	8. In JavaScript, what is the difference between "==" and "==="?	1
+	9. How to create a responsive navigation bar using CSS Flexbox?	9. How may CSS Flexbox be used to create a responsive menu bar?	1
+	10. How to deploy a Node.js application on AWS Lambda?	10. How do I deploy a Node.js app on AWS Lambda?	1
+	11. How to handle CORS in a Flask API?	11. How should CORS be handled in a Flask API?	1
+	12. How to create a custom directive in Angular?	12. How can I make a custom Angular directive?	1
+	13. What is the best way to manage state in a Vue.js application?	13. How should state be managed in a Vue.js application?	1
+	14. How to implement server-side rendering with Next.js?	14. How do I use Next.js to implement server-side rendering?	1
+	15. How to use environment variables in a Golang application?	15. How do you use environment variables in a Golang program?	1
+	16. How to create a RESTful API with Express and MongoDB?	16. How do I build a RESTful API using Express and MongoDB?	1
+	17. How to set up a WebRTC video chat application using JavaScript and WebSockets?	17. How can I create a WebRTC video chat application with JavaScript and WebSockets?	1
+	18. How to create a custom WordPress plugin from scratch?	18. How do I design a custom WordPress plugin from the ground up?	1
+	19. How to use multiple databases in a Laravel application?	19. How can many databases be used in a Laravel application?	1
+	20. What is the best way to store sensitive data in a .NET Core application?	20. How should sensitive data be stored in a.NET Core application?	1
+	21. How to optimize images for the web using Python and Pillow?	21. How can I use Python and Pillow to optimize photos for the web?	1
+	22. How to use multithreading in Java to improve performance?	22. How can multithreading be used to improve performance in Java?	1
+	23. How to create an infinite scroll feature in a React Native app?	23. How do you implement an endless scroll functionality in a React Native app?	1
+	24. How to use the Observer pattern in Swift?	24. What is the Observer pattern and how does it work in Swift?	1
+	25. How to work with WebSockets in an ASP.NET Core application?	25. How can I use WebSockets in an ASP.NET Core app?	1
+	26. How to use CSS Grid Layout to create a responsive gallery?	26. How do I make a responsive gallery with CSS Grid Layout?	1
+	27. How to use the Chain of Responsibility pattern in PHP?	27. What is the Chain of Responsibility pattern and how does it work in PHP?	1
+	28. How to properly handle file uploads in a Spring Boot application?	28. How should a Spring Boot application handle file uploads?	1
+	29. How to configure SSL/TLS for a Node.js application hosted on Heroku?	29. How do I configure SSL/TLS for a Heroku-hosted Node.js application?	1
+	30. How to create a custom filter in AngularJS?	30. How can I make a custom AngularJS filter?	1
+	31. How to implement a binary search algorithm in C++?	31. How does a binary search method work in C++?	1
+	32. How to manage global state in a Svelte application?	32. How does a Svelte application maintain global state?	1
+	33. How to create a sortable table in Ember.js?	33.How do you make a sortable table in Ember.js?	1
+	34. How to use the Factory pattern in Kotlin?	35.How do I use the Factory pattern in Kotlin?	1
+	35. How to set up a continuous integration pipeline with Jenkins and Git?	35.How do I put up a Jenkins and Git continuous integration pipeline?	1
+	36. How to use jQuery to make an AJAX request to a REST API?	36. How can jQuery be used to send an AJAX call to a REST API?	1
+	37. How to generate PDFs in a Ruby application using Prawn?	37. How to use Prawn to produce PDFs in a Ruby application?	1
+	38. How to use the Adapter pattern in C#?	38. How does the Adapter pattern work in C#?	1
+	39. How to create a reusable component library in React?	39. How do you make a React reusable component library?	1
+	40. How to manage user authentication in a Firebase application?	40. How do you manage user authentication in a Firebase app?	1
+	41. How to create a GraphQL API with Apollo Server?	41. How do I build a GraphQL API using Apollo Server?	1
+	42. How to handle form validation in an Angular application?	42. How should form validation be handled in an Angular application?	1
+	43. How to implement lazy loading of images in a Vue.js app?	43. How do I create lazy image loading in a Vue.js app?	1
+	44. How to test a Django view with pytest?	44. How do I use pytest to test a Django view?	1
+	45. How to create an accessible modal dialog in a web application?	45. How do you make an accessible modal dialog in a web app?	1
+	46. How to implement the Singleton pattern in Java?	46. How does the Singleton pattern work in Java?	1
+	47. How to create an interactive chart with D3.js and SVG?	47. How can I make an interactive chart using D3.js and SVG?	1
+	48. How to use the Builder pattern in Python?	48. How can I implement the Builder pattern in Python?	1
+	49. How to optimize database queries in a Laravel Eloquent model?	49. What is the best way to optimize database queries in a Laravel Eloquent model?	1
+	50. How to use the Memento pattern in Swift?	50. What is the Memento pattern and how does it work in Swift?	1
+	51. How to create a custom animation in a React Native app?	51. How can I make my own animation in a React Native app?	1
+	52. How to use the Flyweight pattern in C++?	52. How can I implement the Flyweight pattern in C++?	1
+	53. How to create a chatbot using Dialogflow and Node.js?	53. How can I build a chatbot with Dialogflow and Node.js?	1
+	54. How to use the Facade pattern in PHP?	54. How does the Facade pattern work in PHP?	1
+	55. How to use Web Workers to improve performance in JavaScript?	55. How may Web Workers be used to increase JavaScript performance?	1
+	56. How to create a real-time notification system with Socket.IO?	56. How may Socket.IO be used to build a real-time notification system?	1
+	57. How to manage state in a Blazor Web?	57. What is the best way to handle state in a Blazor Web?	1
+	58. How to implement a custom sorting algorithm in Rust?	58. In Rust, how do you construct a custom sorting algorithm?	1
+	59. How to create a parallax scrolling effect with CSS and JavaScript?	59. How can you make a parallax scrolling effect using CSS and JavaScript?	1
+	60. How to use the Composite pattern in TypeScript?	60. How should the Composite pattern be used in TypeScript?	1
+	61. How to integrate Google Maps API in an Angular application?	61. How can I incorporate the Google Maps API into an Angular application?	1
+	62. How to use the Decorator pattern in Ruby?	62. How does the Decorator pattern work in Ruby?	1
+	63. How to create a dynamic form in a Vue.js application?	63. How do you make a dynamic form in a Vue.js app?	1
+	64. How to use the Prototype pattern in Java?	64. What is the Prototype pattern and how does it work in Java?	1
+	65. How to handle file downloads in an ASP.NET Core application?	65. How should file downloads be handled in an ASP.NET Core application?	1
+	66. How to create a carousel slider with pure JavaScript and CSS?	66. How can you make a carousel slider using only JavaScript and CSS?	1
+	67. How to implement infinite scrolling in a Xamarin.Forms ListView?	67.How do I add unlimited scrolling to a Xamarin.Forms ListView?	1
+	68. How to use the Bridge pattern in C#?	68. How does the Bridge pattern work in C#?	1
+	69. How to create a responsive grid layout with CSS Flexbox and media queries?	69. How can I make a responsive grid layout using CSS Flexbox and media queries?	1
+	70. How to use the Strategy pattern in Python?	70. How do I implement the Strategy pattern in Python?	1
+	71. How to set up a custom domain and SSL for a GitHub Pages site?	71.How do I configure a custom domain and SSL for a GitHub Pages site?	1
+	72. How to create an autocomplete search input with AJAX and PHP?	72. How can I make an AJAX and PHP autocomplete search input?	1
+	73. How to use the Command pattern in Swift?	73. What is the Command pattern in Swift?	1
+	74. How to create a multi-language website with Gatsby.js?	74. How do I make a multilingual website with Gatsby.js?	1
+	75. How to configure Webpack to optimize your React application for production?	75. How do you set up Webpack to optimize your React project for production?	1
+	76. How to use the Proxy pattern in JavaScript?	76. What is the Proxy pattern and how does it work in JavaScript?	1
+	77. How to create a serverless function with Azure Functions and Python?	77. How can I write a serverless function in Python using Azure Functions?	1
+	78. How to use the Template Method pattern in Kotlin?	78. How does the Template Method pattern work in Kotlin?	1
+	79. How to implement pagination in a GraphQL API using Relay?	79. Using Relay, how do you build pagination in a GraphQL API?	1
+	80. How to use the State pattern in Ruby?	80. How does the State pattern work in Ruby?	1
+	81. How to create a dynamic SVG element with D3.js and React?	81. How do you make a dynamic SVG element with D3.js and React?	1
+	82. How to use the Iterator pattern in Java?	82.How does the Iterator pattern work in Java?	1
+	83. How to create a custom hook for handling form inputs in a React application?	83. How can I write a custom hook in a React app to handle form inputs?	1
+	84. How to use the Mediator pattern in TypeScript?	84.How does the Mediator pattern work in TypeScript?	1
+	85. How to create a responsive header with CSS Grid Layout?	85. How can you make a responsive header using CSS Grid Layout?	1
+	86. How to use the Visitor pattern in C#?	86. How does the Visitor pattern work in C#?	1
+	87. How to create a server-rendered application with Nuxt.js and Vuex?	87. How can I build a server-rendered application using Nuxt.js and Vuex?	1
+	88. How to use the Interpreter pattern in Python?	88. How do I use the Python Interpreter pattern?	1
+	89. How to create a custom WordPress theme from scratch using the REST API?	89. How can I build a custom WordPress theme from the ground up using the REST API?	1
+	90. How to use the Abstract Factory pattern in PHP?	90. What is the Abstract Factory pattern and how does it work in PHP?	1
+	91. How to create an offline-first mobile app using Service Workers and the Cache API?	91. How do you build an offline-first mobile app with Service Workers and the Cache API?	1
+	92. How to use the Chain of Command pattern in C++?	92. What is the Chain of Command pattern and how does it work in C++?	1
+	93. How to create a custom form validation directive in Angular?	93. In Angular, how do you make a custom form validation directive?	1
+	94. How to use the Caretaker pattern in Java?	94. What is the Caretaker pattern and how does it work in Java?	1
+	95. How to implement server-side pagination in a Django REST Framework API?	95. How should server-side pagination be implemented in a Django REST Framework API?	1
+	96. How to use the Momento pattern in Swift?	96. How does the Momento pattern work in Swift?	1
+	97. How to create a draggable element with JavaScript and the HTML5 Drag and Drop API?	97. How do you make a draggable element in JavaScript using the HTML5 Drag and Drop API?	1
+	98. How to use the Publish-Subscribe pattern in Node.js?	98. What is the Publish-Subscribe pattern and how does it work in Node.js?	1
+	99. How to create a reusable modal component in a Vue.js application?	99. How do you make a reusable modal component in a Vue.js app?	1
+	100. How to use the Double-Checked Locking pattern in C#?	100. How can I implement the Double-Checked Locking pattern in C#?	1
