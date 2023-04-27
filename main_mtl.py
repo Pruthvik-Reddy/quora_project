@@ -13,7 +13,7 @@ parser.add_argument('--lr', type=float, default=5e-5)
 
 
 
-train_data,test_data,val_data=return_data()
+train_data,test_data=return_data()
 
 args = parser.parse_args()
 batch_size=int(args.batch_size)
