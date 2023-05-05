@@ -13,6 +13,7 @@ def label_data_with_categories():
     categories1=[]
     categories2=[]
     is_same_category=[]
+    is_duplicate=[]
     row_num=0
 
     for index,row in data.iterrows():
@@ -34,6 +35,7 @@ def label_data_with_categories():
                 is_same_category.append(1)
             else:
                 is_same_category.append(0)
+            is_duplicate.append(row["is_duplicate"])
             row_num+=2
     print("Id 1 length : ",len(id1_list))
     print("Id 2 length : ",len(id2_list))
@@ -44,7 +46,7 @@ def label_data_with_categories():
     print("Is same category length : ",len(is_same_category))
     
     data_with_categories = pd.DataFrame({'qid1': id1_list, 'qid2': id2_list, 'question1': questions_1, 'question2': questions_2,
-                                         "categories1":categories1,"categories2":categories2,"is_same_category":is_same_category})
+                                         "categories1":categories1,"categories2":categories2,"is_same_category":is_same_category,"is_duplicate":is_duplicate})
     
     return data_with_categories
 
