@@ -20,7 +20,9 @@ cluster = hdbscan.HDBSCAN(min_cluster_size=15,
 labels=cluster.labels_
 df = pd.DataFrame(labels, columns=["labels"])
 
-df.to_csv("quora_project/cluster_labels.csv", index=False)
+df.to_csv("cluster_labels.csv", index=False)
+df.to_csv("quora_dataset/cluster_labels.csv", index=False)
+
 print("The dimensions of cluster labels is : ",df.shape)
 
 
