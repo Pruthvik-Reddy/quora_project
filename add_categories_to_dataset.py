@@ -13,6 +13,8 @@ def label_data_with_categories():
     categories1=[]
     categories2=[]
     is_same_category=[]
+    row_num=0
+
     for index,row in data.iterrows():
         if isinstance(row["question1"],str) and isinstance(row["question2"],str):
             id1=row["qid1"]
