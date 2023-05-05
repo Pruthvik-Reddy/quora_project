@@ -29,7 +29,7 @@ def label_data_with_categories():
             questions_1.append(sent1)
             questions_2.append(sent2)
             categories1.append(labels[row_num])
-            categories1.append(labels[row_num+1])
+            categories2.append(labels[row_num+1])
             if labels[row_num]==labels[row_num+1]:
                 is_same_category.append(1)
             else:
