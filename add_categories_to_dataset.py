@@ -35,6 +35,14 @@ def label_data_with_categories():
             else:
                 is_same_category.append(0)
             row_num+=2
+    print("Id 1 length : ",len(id1_list))
+    print("Id 2 length : ",len(id2_list))
+    print("Question 1 length : ",len(questions_1))
+    print("Question 2 length : ",len(questions_2))
+    print("categories 1 length : ",len(categories1))
+    print("Categories 2 length : ",len(categories2))
+    print("Is same category length : ",len(is_same_category))
+    
     data_with_categories = pd.DataFrame({'qid1': id1_list, 'qid2': id2_list, 'question1': questions_1, 'question2': questions_2,
                                          "categories1":categories1,"categories2":categories2,"is_same_category":is_same_category})
     
