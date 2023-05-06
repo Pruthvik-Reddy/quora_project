@@ -10,8 +10,8 @@ def return_data():
     test_data=dict()
     val_data=dict()
 
-    train_df=pd.read_csv("quora_dataset/sampled_questions_with_categories.tsv", sep='\t')
-    test_df=pd.read_csv("quora_dataset/sub_sampled_test.tsv", sep='\t')
+    train_df=pd.read_csv("quora_dataset/quora_duplicate_questions_train.tsv", sep='\t')
+    test_df=pd.read_csv("quora_dataset/quora_duplicate_questions_test.tsv", sep='\t')
     
     train_sentences_1=[]
     train_sentences_2=[]
